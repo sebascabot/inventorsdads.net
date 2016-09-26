@@ -5,7 +5,7 @@ server {
 
 	root /home/seb/prj/inventorsdads.net;
 
-	index.html;
+	index index.html;
 
 	server_name _;
 
