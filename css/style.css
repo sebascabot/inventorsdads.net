@@ -1,0 +1,17 @@
+h1 {
+	font-family: Schoolbell;
+	font-size: 8rem;
+	text-align: center;
+}
+
+h1 + img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid red;
+}
+
+h3 {
+	font-family: Schoolbell;
+	font-size: 3rem;
+}
